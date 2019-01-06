@@ -1,0 +1,12 @@
+X
+X Z Y W
++ - * ( ) a
+8
+X:Y
+Y:Z + W
+Y:Z * W
+Y:Z
+Z:W
+Z:- W
+W:a
+W:( Y )
