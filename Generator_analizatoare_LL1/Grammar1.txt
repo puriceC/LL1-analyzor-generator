@@ -1,0 +1,10 @@
+﻿E
+E T F
+a ( ) + *
+6
+E:E + T
+E:T
+T:T * F
+T:F
+F:a
+F:( E )
